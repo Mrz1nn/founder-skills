@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="420" viewBox="0 0 1280 420" role="img" aria-label="Founder Skills: 11 skills do Claude que testam seu negocio antes de voce gastar">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0B1220"/>
+      <stop offset="1" stop-color="#111827"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.82" cy="0.18" r="0.6">
+      <stop offset="0" stop-color="#34D399" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#34D399" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glow2" cx="0.1" cy="1" r="0.55">
+      <stop offset="0" stop-color="#60A5FA" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#60A5FA" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#FFFFFF" stroke-opacity="0.04"/>
+    </pattern>
+  </defs>
+  <rect width="1280" height="420" rx="28" fill="url(#bg)"/>
+  <rect width="1280" height="420" rx="28" fill="url(#grid)"/>
+  <rect width="1280" height="420" rx="28" fill="url(#glow)"/>
+  <rect width="1280" height="420" rx="28" fill="url(#glow2)"/>
+
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, Helvetica, Arial, sans-serif">
+    <rect x="72" y="72" width="196" height="34" rx="17" fill="#34D399" fill-opacity="0.12" stroke="#34D399" stroke-opacity="0.45"/>
+    <text x="170" y="95" text-anchor="middle" font-size="15" font-weight="600" fill="#6EE7B7" letter-spacing="1.5">CLAUDE SKILLS</text>
+
+    <text x="72" y="190" font-size="76" font-weight="800" fill="#F9FAFB" letter-spacing="-2">Founder Skills</text>
+    <text x="72" y="244" font-size="26" font-weight="400" fill="#9CA3AF">Teste o seu negócio antes de gastar dinheiro com ele.</text>
+
+    <g font-size="16" font-weight="600">
+      <rect x="72" y="296" width="148" height="40" rx="12" fill="#FFFFFF" fill-opacity="0.06" stroke="#FFFFFF" stroke-opacity="0.12"/>
+      <text x="146" y="322" text-anchor="middle" fill="#E5E7EB">11 skills</text>
+      <rect x="232" y="296" width="210" height="40" rx="12" fill="#FFFFFF" fill-opacity="0.06" stroke="#FFFFFF" stroke-opacity="0.12"/>
+      <text x="337" y="322" text-anchor="middle" fill="#E5E7EB">100 compradores IA</text>
+      <rect x="454" y="296" width="148" height="40" rx="12" fill="#FFFFFF" fill-opacity="0.06" stroke="#FFFFFF" stroke-opacity="0.12"/>
+      <text x="528" y="322" text-anchor="middle" fill="#E5E7EB">Sem API</text>
+      <rect x="614" y="296" width="120" height="40" rx="12" fill="#FFFFFF" fill-opacity="0.06" stroke="#FFFFFF" stroke-opacity="0.12"/>
+      <text x="674" y="322" text-anchor="middle" fill="#E5E7EB">MIT</text>
+    </g>
+
+    <!-- verdict card -->
+    <g transform="translate(860 96)">
+      <rect width="348" height="228" rx="22" fill="#0F172A" stroke="#FFFFFF" stroke-opacity="0.1"/>
+      <text x="28" y="44" font-size="14" font-weight="600" fill="#9CA3AF" letter-spacing="1.2">VEREDITO DO PLANO</text>
+      <circle cx="40" cy="86" r="12" fill="#34D399"/>
+      <path d="M34 86l4 4 8-8" stroke="#0B1220" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+      <text x="62" y="94" font-size="28" font-weight="700" fill="#F9FAFB">Lucrativo</text>
+      <line x1="28" y1="122" x2="320" y2="122" stroke="#FFFFFF" stroke-opacity="0.08"/>
+      <text x="28" y="156" font-size="15" fill="#9CA3AF">Margem no plano</text>
+      <text x="320" y="156" font-size="15" font-weight="700" fill="#F9FAFB" text-anchor="end">38%</text>
+      <text x="28" y="184" font-size="15" fill="#9CA3AF">Ponto de equilíbrio</text>
+      <text x="320" y="184" font-size="15" font-weight="700" fill="#F9FAFB" text-anchor="end">186 / dia</text>
+      <text x="28" y="212" font-size="15" fill="#9CA3AF">Payback</text>
+      <text x="320" y="212" font-size="15" font-weight="700" fill="#F9FAFB" text-anchor="end">mês 8</text>
+    </g>
+  </g>
+</svg>

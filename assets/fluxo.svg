@@ -1,0 +1,117 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="460" viewBox="0 0 1280 460" role="img" aria-label="Ordem das skills: validar, precificar, lancar e plano">
+  <defs>
+    <marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto">
+      <path d="M0 0L10 5L0 10z" fill="#6B7280"/>
+    </marker>
+  </defs>
+  <rect width="1280" height="460" rx="28" fill="#0B1220"/>
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, Helvetica, Arial, sans-serif">
+
+    <!-- stage labels -->
+    <g font-size="13" font-weight="700" letter-spacing="1.4">
+      <text x="64" y="64" fill="#6EE7B7">1 · VALIDAR</text>
+      <text x="64" y="244" fill="#93C5FD">2 · PRECIFICAR</text>
+      <text x="676" y="64" fill="#FCD34D">3 · LANÇAR</text>
+      <text x="676" y="244" fill="#F9A8D4">4 · DECIDIR</text>
+    </g>
+
+    <g font-size="17" font-weight="700" fill="#F9FAFB">
+      <!-- validar -->
+      <g>
+        <rect x="64" y="84" width="170" height="104" rx="18" fill="#34D399" fill-opacity="0.1" stroke="#34D399" stroke-opacity="0.5"/>
+        <text x="84" y="124">board</text>
+        <text x="84" y="150" font-size="13" font-weight="400" fill="#9CA3AF">3 conselheiros</text>
+        <text x="84" y="170" font-size="13" font-weight="400" fill="#9CA3AF">votam a ideia</text>
+      </g>
+      <g>
+        <rect x="258" y="84" width="170" height="104" rx="18" fill="#34D399" fill-opacity="0.1" stroke="#34D399" stroke-opacity="0.5"/>
+        <text x="278" y="124">competitors</text>
+        <text x="278" y="150" font-size="13" font-weight="400" fill="#9CA3AF">concorrentes,</text>
+        <text x="278" y="170" font-size="13" font-weight="400" fill="#9CA3AF">preços e brechas</text>
+      </g>
+      <g>
+        <rect x="452" y="84" width="170" height="104" rx="18" fill="#34D399" fill-opacity="0.1" stroke="#34D399" stroke-opacity="0.5"/>
+        <text x="472" y="124">consumer</text>
+        <text x="472" y="150" font-size="13" font-weight="400" fill="#9CA3AF">100 compradores</text>
+        <text x="472" y="170" font-size="13" font-weight="400" fill="#9CA3AF">simulados</text>
+      </g>
+
+      <!-- precificar -->
+      <g>
+        <rect x="64" y="264" width="170" height="104" rx="18" fill="#60A5FA" fill-opacity="0.1" stroke="#60A5FA" stroke-opacity="0.5"/>
+        <text x="84" y="304">pricing</text>
+        <text x="84" y="330" font-size="13" font-weight="400" fill="#9CA3AF">faixa de preço</text>
+        <text x="84" y="350" font-size="13" font-weight="400" fill="#9CA3AF">aceitável</text>
+      </g>
+      <g>
+        <rect x="258" y="264" width="170" height="104" rx="18" fill="#60A5FA" fill-opacity="0.1" stroke="#60A5FA" stroke-opacity="0.5"/>
+        <text x="278" y="304">offer</text>
+        <text x="278" y="330" font-size="13" font-weight="400" fill="#9CA3AF">oferta que responde</text>
+        <text x="278" y="350" font-size="13" font-weight="400" fill="#9CA3AF">as objeções</text>
+      </g>
+      <g>
+        <rect x="452" y="264" width="170" height="104" rx="18" fill="#60A5FA" fill-opacity="0.1" stroke="#60A5FA" stroke-opacity="0.5"/>
+        <text x="472" y="304">cfo</text>
+        <text x="472" y="330" font-size="13" font-weight="400" fill="#9CA3AF">margem, equilíbrio,</text>
+        <text x="472" y="350" font-size="13" font-weight="400" fill="#9CA3AF">caixa, payback</text>
+      </g>
+
+      <!-- lancar -->
+      <g>
+        <rect x="676" y="84" width="122" height="104" rx="18" fill="#FBBF24" fill-opacity="0.1" stroke="#FBBF24" stroke-opacity="0.5"/>
+        <text x="694" y="124">marketing</text>
+        <text x="694" y="150" font-size="13" font-weight="400" fill="#9CA3AF">campanha</text>
+        <text x="694" y="170" font-size="13" font-weight="400" fill="#9CA3AF">de 30 dias</text>
+      </g>
+      <g>
+        <rect x="818" y="84" width="122" height="104" rx="18" fill="#FBBF24" fill-opacity="0.1" stroke="#FBBF24" stroke-opacity="0.5"/>
+        <text x="836" y="124">brand</text>
+        <text x="836" y="150" font-size="13" font-weight="400" fill="#9CA3AF">nome, voz</text>
+        <text x="836" y="170" font-size="13" font-weight="400" fill="#9CA3AF">e visual</text>
+      </g>
+      <g>
+        <rect x="960" y="84" width="122" height="104" rx="18" fill="#FBBF24" fill-opacity="0.1" stroke="#FBBF24" stroke-opacity="0.5"/>
+        <text x="978" y="124">ops</text>
+        <text x="978" y="150" font-size="13" font-weight="400" fill="#9CA3AF">fornecedores</text>
+        <text x="978" y="170" font-size="13" font-weight="400" fill="#9CA3AF">e rotinas</text>
+      </g>
+      <g>
+        <rect x="1102" y="84" width="122" height="104" rx="18" fill="#FBBF24" fill-opacity="0.1" stroke="#FBBF24" stroke-opacity="0.5"/>
+        <text x="1120" y="124">launch</text>
+        <text x="1120" y="150" font-size="13" font-weight="400" fill="#9CA3AF">teste real e</text>
+        <text x="1120" y="170" font-size="13" font-weight="400" fill="#9CA3AF">contagem</text>
+      </g>
+
+      <!-- decidir -->
+      <g>
+        <rect x="676" y="264" width="548" height="104" rx="18" fill="#F472B6" fill-opacity="0.1" stroke="#F472B6" stroke-opacity="0.55"/>
+        <text x="700" y="304" font-size="20">plan</text>
+        <text x="700" y="332" font-size="14" font-weight="400" fill="#9CA3AF">Junta tudo num plano de negócio. O veredito é calculado pelos números:</text>
+        <g font-size="13" font-weight="700">
+          <rect x="700" y="340" width="96" height="22" rx="11" fill="#34D399" fill-opacity="0.18"/>
+          <text x="748" y="355" text-anchor="middle" fill="#6EE7B7">Lucrativo</text>
+          <rect x="806" y="340" width="96" height="22" rx="11" fill="#FBBF24" fill-opacity="0.18"/>
+          <text x="854" y="355" text-anchor="middle" fill="#FCD34D">Ainda não</text>
+          <rect x="912" y="340" width="110" height="22" rx="11" fill="#9CA3AF" fill-opacity="0.18"/>
+          <text x="967" y="355" text-anchor="middle" fill="#D1D5DB">Incompleto</text>
+        </g>
+      </g>
+    </g>
+
+    <!-- arrows -->
+    <g stroke="#6B7280" stroke-width="2" fill="none" marker-end="url(#a)">
+      <path d="M236 136H254"/>
+      <path d="M430 136H448"/>
+      <path d="M537 190V226H149V258"/>
+      <path d="M236 316H254"/>
+      <path d="M430 316H448"/>
+      <path d="M624 316H644V136H670"/>
+      <path d="M800 136H814"/>
+      <path d="M942 136H956"/>
+      <path d="M1084 136H1098"/>
+      <path d="M1163 190V258"/>
+    </g>
+
+    <text x="64" y="420" font-size="14" fill="#6B7280">Cada skill lê o que as anteriores escreveram na pasta founder/ do seu projeto.</text>
+  </g>
+</svg>
